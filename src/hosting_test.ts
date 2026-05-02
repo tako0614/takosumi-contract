@@ -344,7 +344,7 @@ function manifestFor(
     services,
     profile: `${targetId}.example.json`,
     providerProfile: {
-      bundle: "@takosumi/plugins",
+      bundle: "@takos/takosumi",
       profileId: `operator.takosumi.${targetId}`,
       pluginIds: [`operator.takosumi.${targetId}`],
     },
