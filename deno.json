@@ -1,6 +1,7 @@
 {
-  "name": "takosumi-contract",
+  "name": "@takosumi/contract",
   "version": "1.0.0",
+  "license": "MIT",
   "exports": {
     ".": "./mod.ts",
     "./core-v1": "./src/core-v1.ts",
